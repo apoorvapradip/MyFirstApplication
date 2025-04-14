@@ -11,6 +11,7 @@
 # Technologies Used
 Frontend: HTML, CSS, JAVASCRIPT
 API:https://openweathermap.org/
+
 Icons: Fontawesome
 
 # Additional information
@@ -30,4 +31,5 @@ An API key from OpenWeatherMap Api
 
 # Installation
 Clone the repository: 
+https://github.com/apoorvapradip
 
